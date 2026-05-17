@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:Chitraju Vishnu Vineeth
 Engineering Student<br>Intrested in Full Stack Devolopment Projects
 
 
