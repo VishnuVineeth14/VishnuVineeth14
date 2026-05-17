@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🐍 Smart Snake Game - Auto Play</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 100%);
+            font-family: 'Courier New', monospace;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+            color: #00ff41;
+        }
+        
+        .container {
+            text-align: center;
+        }
+        
+        h1 {
+            margin-bottom: 20px;
+            font-size: 2.5em;
+            text-shadow: 0 0 10px rgba(0, 255, 65, 0.5);
+        }
+        
+        #gameBoard {
+            width: 300px;
+            height: 300px;
+            border: 3px solid #00ff41;
+            background: #0d1117;
+            box-shadow: 0 0 30px rgba(0, 255, 65, 0.3);
+            margin: 20px auto;
+            position: relative;
+            display: inline-block;
+        }
+        
+        .gridCell {
+            position: absolute;
+            width: 15px;
+            height: 15px;
+        }
+        
+        .snakeSegment {
+            background: #00ff41;
+            box-shadow: 0 0 8px rgba(0, 255, 65, 0.8);
+            border-radius: 2px;
+        }
+        
+        .food {
+            background: #ff006e;
+            box-shadow: 0 0 8px rgba(255, 0, 110, 0.8);
+            border-radius: 50%;
+            animation: pulse 0.5s infinite alternate;
+        }
+        
+        @keyframes pulse {
+            from { transform: scale(1); }
+            to { transform: scale(1.2); }
+        }
+        
+        .info {
+            margin-top: 20px;
+            padding: 20px;
+            background: rgba(0, 255, 65, 0.1);
+            border: 2px solid #00ff41;
+            border-radius: 8px;
+            display: inline-block;
+        }
+        
+        .stat {
+            font-size: 1.2em;
+            margin: 8px 0;
+            font-weight: bold;
+        }
+        
+        .controls {
+            margin-top: 20px;
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        button {
+            background: #00ff41;
+            color: #0d1117;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            font-family: 'Courier New', monospace;
+            font-size: 1em;
+            transition: all 0.3s;
+        }
+        
+        button:hover {
+            box-shadow: 0 0 15px rgba(0, 255, 65, 0.5);
+            transform: scale(1.05);
+        }
+        
+        button:active {
+            transform: scale(0.95);
+        }
+        
+        .description {
+            margin-top: 15px;
+            font-size: 0.9em;
+            color: #58a6ff;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🐍 Smart Snake Game</h1>
+        
+        <div id="gameBoard"></div>
+        
+        <div class="info">
+            <div class="stat">🎮 Score: <span id="score">0</span></div>
+            <div class="stat">🐍 Length: <span id="length">3</span></div>
+            <div class="stat">🎯 High Score: <span id="highScore">0</span></div>
+        </div>
+        
+        <div class="controls">
+            <button onclick="toggleAutoPlay()">⏯️ Toggle Auto Play</button>
+            <button onclick="resetGame()">🔄 Reset</button>
+        </div>
+        
+        <div class="description">
+            <p>🤖 Watch the snake play automatically!</p>
+            <p>It learns optimal paths and finds food intelligently.</p>
+            <p>Use Arrow Keys or WASD to control manually anytime.</p>
+        </div>
+    </div>
+
+    <script>
+        const BOARD_SIZE = 20;
+        const GRID_SIZE = 15;
+        const SPEED = 150;
+        
+        let gameBoard = document.getElementById('gameBoard');
+        let snake = [{x: 10, y: 10}, {x: 9, y: 10}, {x: 8, y: 10}];
+        let food = generateFood();
+        let dirX = 1, dirY = 0;
+        let nextDirX = 1, nextDirY = 0;
+        let score = 0;
+        let highScore = localStorage.getItem('snakeHighScore') || 0;
+        let isAutoPlay = true;
+        let gameRunning = true;
+        
+        document.getElementById('highScore').textContent = highScore;
+        
+        function generateFood() {
+            let newFood;
+            let foodOnSnake;
+            do {
+                foodOnSnake = false;
+                newFood = {
+                    x: Math.floor(Math.random() * BOARD_SIZE),
+                    y: Math.floor(Math.random() * BOARD_SIZE)
+                };
+                for (let segment of snake) {
+                    if (segment.x === newFood.x && segment.y === newFood.y) {
+                        foodOnSnake = true;
+                        break;
+                    }
+                }
+            } while (foodOnSnake);
+            return newFood;
+        }
+        
+        function render() {
+            gameBoard.innerHTML = '';
+            
+            snake.forEach((segment, index) => {
+                const cell = document.createElement('div');
+                cell.className = 'gridCell snakeSegment';
+                cell.style.left = segment.x * GRID_SIZE + 'px';
+                cell.style.top = segment.y * GRID_SIZE + 'px';
+                cell.style.width = GRID_SIZE + 'px';
+                cell.style.height = GRID_SIZE + 'px';
+                gameBoard.appendChild(cell);
+            });
+            
+            const foodCell = document.createElement('div');
+            foodCell.className = 'gridCell food';
+            foodCell.style.left = food.x * GRID_SIZE + 'px';
+            foodCell.style.top = food.y * GRID_SIZE + 'px';
+            foodCell.style.width = GRID_SIZE + 'px';
+            foodCell.style.height = GRID_SIZE + 'px';
+            gameBoard.appendChild(foodCell);
+            
+            document.getElementById('score').textContent = score;
+            document.getElementById('length').textContent = snake.length;
+        }
+        
+        function findBestMove() {
+            const head = snake[0];
+            const possibleMoves = [
+                {dx: 1, dy: 0},
+                {dx: -1, dy: 0},
+                {dx: 0, dy: 1},
+                {dx: 0, dy: -1}
+            ];
+            
+            let bestMove = null;
+            let bestDistance = Infinity;
+            
+            for (let move of possibleMoves) {
+                const newHead = {x: head.x + move.dx, y: head.y + move.dy};
+                
+                if (newHead.x < 0 || newHead.x >= BOARD_SIZE || 
+                    newHead.y < 0 || newHead.y >= BOARD_SIZE) {
+                    continue;
+                }
+                
+                let isColliding = false;
+                for (let segment of snake) {
+                    if (newHead.x === segment.x && newHead.y === segment.y) {
+                        isColliding = true;
+                        break;
+                    }
+                }
+                if (isColliding) continue;
+                
+                const distance = Math.abs(newHead.x - food.x) + Math.abs(newHead.y - food.y);
+                if (distance < bestDistance) {
+                    bestDistance = distance;
+                    bestMove = move;
+                }
+            }
+            
+            if (bestMove) {
+                return bestMove;
+            }
+            
+            for (let move of possibleMoves) {
+                const newHead = {x: head.x + move.dx, y: head.y + move.dy};
+                if (newHead.x >= 0 && newHead.x < BOARD_SIZE && 
+                    newHead.y >= 0 && newHead.y < BOARD_SIZE) {
+                    let isSafe = true;
+                    for (let segment of snake) {
+                        if (newHead.x === segment.x && newHead.y === segment.y) {
+                            isSafe = false;
+                            break;
+                        }
+                    }
+                    if (isSafe) {
+                        return move;
+                    }
+                }
+            }
+            
+            return {dx: dirX, dy: dirY};
+        }
+        
+        function update() {
+            if (!gameRunning) return;
+            
+            if (isAutoPlay) {
+                const bestMove = findBestMove();
+                nextDirX = bestMove.dx;
+                nextDirY = bestMove.dy;
+            }
+            
+            dirX = nextDirX;
+            dirY = nextDirY;
+            
+            const newHead = {x: snake[0].x + dirX, y: snake[0].y + dirY};
+            
+            if (newHead.x < 0 || newHead.x >= BOARD_SIZE || 
+                newHead.y < 0 || newHead.y >= BOARD_SIZE) {
+                resetGame();
+                return;
+            }
+            
+            for (let segment of snake) {
+                if (newHead.x === segment.x && newHead.y === segment.y) {
+                    resetGame();
+                    return;
+                }
+            }
+            
+            snake.unshift(newHead);
+            
+            if (newHead.x === food.x && newHead.y === food.y) {
+                score += 10 + snake.length;
+                if (score > highScore) {
+                    highScore = score;
+                    localStorage.setItem('snakeHighScore', highScore);
+                    document.getElementById('highScore').textContent = highScore;
+                }
+                food = generateFood();
+            } else {
+                snake.pop();
+            }
+            
+            render();
+        }
+        
+        function resetGame() {
+            snake = [{x: 10, y: 10}, {x: 9, y: 10}, {x: 8, y: 10}];
+            food = generateFood();
+            dirX = 1;
+            dirY = 0;
+            nextDirX = 1;
+            nextDirY = 0;
+            score = 0;
+            gameRunning = true;
+            isAutoPlay = true;
+            render();
+        }
+        
+        function toggleAutoPlay() {
+            isAutoPlay = !isAutoPlay;
+        }
+        
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowUp' || e.key.toLowerCase() === 'w') {
+                if (dirY === 0) { nextDirX = 0; nextDirY = -1; }
+            }
+            if (e.key === 'ArrowDown' || e.key.toLowerCase() === 's') {
+                if (dirY === 0) { nextDirX = 0; nextDirY = 1; }
+            }
+            if (e.key === 'ArrowLeft' || e.key.toLowerCase() === 'a') {
+                if (dirX === 0) { nextDirX = -1; nextDirY = 0; }
+            }
+            if (e.key === 'ArrowRight' || e.key.toLowerCase() === 'd') {
+                if (dirX === 0) { nextDirX = 1; nextDirY = 0; }
+            }
+        });
+        
+        setInterval(update, SPEED);
+        render();
+    </script>
+</body>
+</html>
