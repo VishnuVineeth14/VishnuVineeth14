@@ -121,13 +121,11 @@
 
 ---
 
-# 🐍 Interactive Snake Game - Playing Through My Contributions!
+
 
 <div align="center" style="margin: 20px 0;">
 
 ![🐍 Snake eating my contributions](https://raw.githubusercontent.com/VishnuVineeth14/VishnuVineeth14/main/dist/github-contribution-grid-snake-dark.svg)
-
-<sub style="color: #00ff41; font-weight: bold;">🤖 The snake moves through your real contribution graph | ⚡ Updates daily | 🎯 Auto-playing live</sub>
 
 </div>
 
