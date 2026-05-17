@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100">
+  <defs>
+    <style>
+      .snake-text { font-size: 24px; font-weight: bold; fill: #00d4ff; text-anchor: middle; }
+      .snake-bg { fill: #0d1117; }
+      .snake-border { stroke: #30363d; stroke-width: 2; fill: none; }
+    </style>
+  </defs>
+  <rect class="snake-bg" width="1000" height="100"/>
+  <rect class="snake-border" x="10" y="10" width="980" height="80"/>
+  <text class="snake-text" x="500" y="60">🐍 Snake animation loading...</text>
+</svg>

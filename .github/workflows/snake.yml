@@ -16,19 +16,23 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: VishnuVineeth14
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      - name: Push changes
-        uses: actions-js/push@master
+      - name: Push Snake Animation
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: "Update snake animation"
-          directory: dist
-          destination_dir: output
+          commit_message: "🐍 Update snake animation"
+          file_pattern: dist/
+          repository: .
+          commit_options: "--no-verify"
+          skip_dirty_check: false
+

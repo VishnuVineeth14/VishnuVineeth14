@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hi, I'm Chitraju Vishnu Vineeth
+# <img src="https://media.giphy.com/media/SvckSmy7B9CVRnIYzV/giphy.gif" width="50"/> Hi, I'm Chitraju Vishnu Vineeth <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="50"/>
 
 ### 🚀 Full Stack Developer | Engineering Student | Tech Enthusiast
 
@@ -14,8 +14,6 @@
 > 💡 Passionate about Full Stack Development | Data Science | Cloud Technologies
 
 </div>
-
----
 
 ---
 
@@ -117,9 +115,17 @@
 
 ---
 
-## 🐍 Contributions Graph (Snake Game)
+## 🐍 Contribution Snake Animation
 
-![snake animation](https://raw.githubusercontent.com/VishnuVineeth14/VishnuVineeth14/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+
+### Watch the snake eat up my contributions! 🎮
+
+![Snake Game - Contributions](https://github.com/VishnuVineeth14/VishnuVineeth14/raw/output/github-contribution-grid-snake-dark.svg)
+
+<sub>*This snake animation shows your GitHub contribution graph in action*</sub>
+
+</div>
 
 ---
 
@@ -128,15 +134,7 @@
 ## 💡 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-## 💡 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 🏆 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=VishnuVineeth14&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ---
 
 ## 🏆 Top Contributed Repositories
