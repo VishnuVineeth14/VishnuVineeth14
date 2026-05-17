@@ -121,13 +121,7 @@
 
 ---
 
-
-
-<div align="center" style="margin: 20px 0;">
-
 ![🐍 Snake eating my contributions](https://raw.githubusercontent.com/VishnuVineeth14/VishnuVineeth14/main/dist/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
