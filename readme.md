@@ -1,8 +1,10 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/SvckSmy7B9CVRnIYzV/giphy.gif" width="50"/> Hi, I'm Chitraju Vishnu Vineeth <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="50"/>
+# 💻 <img src="https://media.giphy.com/media/SvckSmy7B9CVRnIYzV/giphy.gif" width="50"/> Hi, I'm Chitraju Vishnu Vineeth <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="50"/> 🚀
 
-### 🚀 Full Stack Developer | Engineering Student | Tech Enthusiast
+### 🚀 Full Stack Developer | 👨‍🎓 Engineering Student | ⚡ Tech Enthusiast
+
+**Status:** 🟢 Open to Collaborations | 💼 Always Learning | 🎯 Building Awesome Projects
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20With%20Me)](https://linkedin.com/in/chitraju-vishnu-vineeth)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuvineeth2470039@ssn.edu.in)
