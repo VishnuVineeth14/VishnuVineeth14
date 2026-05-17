@@ -121,79 +121,15 @@
 
 ---
 
-# 🐍 Interactive Snake Game - Playing Live Now!
+# 🐍 Interactive Snake Game - Playing Through My Contributions!
 
-<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 100%); padding: 40px 20px; border-radius: 10px; border: 2px solid #00ff41; margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
 
-<svg width="100%" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg" style="background: #0d1117; border-radius: 8px;">
-  <!-- Grid background (contribution style) -->
-  <defs>
-    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
-      <rect width="20" height="20" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
-    </pattern>
-    <style>
-      @keyframes snakeMove { 0% { } 100% { } }
-      @keyframes foodPulse { 0% { opacity: 1; } 50% { opacity: 0.6; } 100% { opacity: 1; } }
-    </style>
-  </defs>
-  
-  <rect width="600" height="400" fill="#0d1117"/>
-  <rect width="600" height="400" fill="url(#grid)"/>
-  
-  <!-- Contribution grid background -->
-  <g opacity="0.2">
-    <rect x="20" y="20" width="15" height="15" fill="#1f6feb" rx="2"/>
-    <rect x="40" y="20" width="15" height="15" fill="#1f6feb" rx="2"/>
-    <rect x="60" y="20" width="15" height="15" fill="#0d1117" rx="2" stroke="#1a1a2e" stroke-width="0.5"/>
-    <rect x="80" y="20" width="15" height="15" fill="#1f6feb" rx="2"/>
-    <rect x="100" y="20" width="15" height="15" fill="#1f6feb" rx="2"/>
-    <rect x="20" y="40" width="15" height="15" fill="#0d1117" rx="2" stroke="#1a1a2e" stroke-width="0.5"/>
-    <rect x="40" y="40" width="15" height="15" fill="#1f6feb" rx="2"/>
-    <rect x="60" y="40" width="15" height="15" fill="#1f6feb" rx="2"/>
-    <rect x="80" y="40" width="15" height="15" fill="#1f6feb" rx="2"/>
-    <rect x="100" y="40" width="15" height="15" fill="#0d1117" rx="2" stroke="#1a1a2e" stroke-width="0.5"/>
-  </g>
-  
-  <!-- Snake segments (animated) -->
-  <g id="snake">
-    <rect x="300" y="180" width="18" height="18" fill="#d946ef" rx="2" filter="drop-shadow(0 0 5px #d946ef)">
-      <animate attributeName="x" values="300;320;340;360;340;320;300;280;260;240;220;200;180;160;140;160;180;200;220;240;260;280;300" dur="12s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="180;180;180;180;200;200;200;200;200;200;200;200;200;200;200;180;180;180;180;180;180;180;180" dur="12s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="280" y="180" width="18" height="18" fill="#d946ef" rx="2" filter="drop-shadow(0 0 3px #d946ef)" opacity="0.8">
-      <animate attributeName="x" values="280;300;320;340;320;300;280;260;240;220;200;180;160;140;160;180;200;220;240;260;280" dur="12s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="180;180;180;180;200;200;200;200;200;200;200;200;200;200;180;180;180;180;180;180;180" dur="12s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="260" y="180" width="18" height="18" fill="#d946ef" rx="2" filter="drop-shadow(0 0 3px #d946ef)" opacity="0.6">
-      <animate attributeName="x" values="260;280;300;320;300;280;260;240;220;200;180;160;140;160;180;200;220;240;260" dur="12s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="180;180;180;180;200;200;200;200;200;200;200;200;200;180;180;180;180;180;180" dur="12s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-  
-  <!-- Food pellets (animated) -->
-  <circle cx="120" cy="100" r="8" fill="#22c55e" filter="drop-shadow(0 0 5px #22c55e)">
-    <animate attributeName="r" values="8;10;8" dur="1s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="420" cy="120" r="8" fill="#22c55e" filter="drop-shadow(0 0 5px #22c55e)">
-    <animate attributeName="r" values="8;10;8" dur="1s" repeatCount="indefinite" begin="0.3s"/>
-  </circle>
-  <circle cx="500" cy="280" r="8" fill="#22c55e" filter="drop-shadow(0 0 5px #22c55e)">
-    <animate attributeName="r" values="8;10;8" dur="1s" repeatCount="indefinite" begin="0.6s"/>
-  </circle>
-  
-  <!-- Score display -->
-  <text x="20" y="30" font-family="monospace" font-size="16" fill="#00ff41" font-weight="bold">🎮 Score: 340</text>
-  <text x="20" y="55" font-family="monospace" font-size="16" fill="#58a6ff" font-weight="bold">🐍 Length: 15</text>
-  
-  <!-- Border -->
-  <rect x="10" y="10" width="580" height="380" fill="none" stroke="#00ff41" stroke-width="2"/>
-</svg>
+### 🎮 **Watch the Snake Navigate My Real GitHub Contributions!**
 
-<p style="margin-top: 15px; color: #00ff41; font-weight: bold;">🤖 Auto-Playing Smart Snake | 🎯 Finds food intelligently | 🔄 Continuous gameplay</p>
+![🐍 Snake eating my contributions](https://raw.githubusercontent.com/VishnuVineeth14/VishnuVineeth14/output/github-contribution-grid-snake-dark.svg)
 
-<sub style="color: #58a6ff;">🕹️ The snake automatically navigates the contribution grid! | Click below for manual controls</sub>
-
-**[PLAY INTERACTIVE VERSION](https://github.com/VishnuVineeth14/VishnuVineeth14/blob/main/snake-game-premium.html)** (Arrow Keys/WASD to control)
+<sub style="color: #00ff41; font-weight: bold;">🤖 The snake moves through your real contribution graph | ⚡ Updates daily via GitHub Actions | 🎯 Auto-playing continuously</sub>
 
 </div>
 
