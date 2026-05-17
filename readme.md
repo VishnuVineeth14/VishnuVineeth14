@@ -23,7 +23,7 @@
 
 ---
 
-# �💻 Tech Stack
+# 💻 Tech Stack
 
 ## 📝 Programming Languages
 *Click on any language to see projects using it*
