@@ -1,6 +1,6 @@
 <div align="center">
 
-#  💻 <img src="https://www.pinterest.com/ideas/coding-gif-banner/929630361081/" width="50"/> Hi, I'm Chitraju Vishnu Vineeth <img src="https://www.pinterest.com/ideas/coding-gif-banner/929630361081/" width="50"/> 🚀
+#  Hi, I'm Chitraju Vishnu Vineeth
 
 ### 🚀 Full Stack Developer | 👨‍🎓 Engineering Student | ⚡ Tech Enthusiast
 
@@ -135,18 +135,29 @@
 
 ### 📌 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="100%">
 
-#### 🎯 [Mess-Management-Platform](https://github.com/VishnuVineeth14/Mess-Management-Platform)
+#### 🎯 **Mess-Management-Platform**
+
+[![Repo Link](https://img.shields.io/badge/View%20Repository-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VishnuVineeth14/Mess-Management-Platform)
+
 *A comprehensive platform for managing hostel mess operations efficiently*
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/VishnuVineeth14/Mess-Management-Platform?style=flat-square&color=00ff41)
 
-**Features:** Real-time mess billing, attendance tracking, user-friendly interface, and efficient data management system.
+**✨ Key Features:**
+- 💰 Real-time mess billing & payments
+- 📋 Attendance tracking system
+- 🎨 User-friendly interface
+- 📊 Efficient data management
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
