@@ -17,7 +17,13 @@
 
 ---
 
-# 💻 Tech Stack
+# � Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# �💻 Tech Stack
 
 ## 📝 Programming Languages
 *Click on any language to see projects using it*
@@ -115,27 +121,25 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake Game - Live Animation
 
 <div align="center">
 
-### Watch the snake eat up my contributions! 🎮
+### 🎮 Watch the snake devour my GitHub contributions in real-time!
 
 ![Snake Game - Contributions](https://github.com/VishnuVineeth14/VishnuVineeth14/raw/output/github-contribution-grid-snake-dark.svg)
 
-<sub>*This snake animation shows your GitHub contribution graph in action*</sub>
+**The snake navigates through your contribution graph daily! 🐍✨**
+
+<sub>*This animated snake shows your GitHub contribution activity. Updated automatically every day!*</sub>
+
+**Want to play the interactive version?** 👉 [Open snake-game-premium.html](https://github.com/VishnuVineeth14/VishnuVineeth14/blob/main/snake-game-premium.html)
 
 </div>
 
 ---
 
 # 🏆 Achievements & Highlights
-
-## 💡 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 ## 🏆 Top Contributed Repositories
 
