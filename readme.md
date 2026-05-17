@@ -125,11 +125,9 @@
 
 <div align="center" style="margin: 20px 0;">
 
-### 🎮 **Watch the Snake Navigate My Real GitHub Contributions!**
+![🐍 Snake eating my contributions](https://raw.githubusercontent.com/VishnuVineeth14/VishnuVineeth14/dist/github-contribution-grid-snake-dark.svg)
 
-![🐍 Snake eating my contributions](https://raw.githubusercontent.com/VishnuVineeth14/VishnuVineeth14/output/github-contribution-grid-snake-dark.svg)
-
-<sub style="color: #00ff41; font-weight: bold;">🤖 The snake moves through your real contribution graph | ⚡ Updates daily via GitHub Actions | 🎯 Auto-playing continuously</sub>
+<sub style="color: #00ff41; font-weight: bold;">🤖 The snake moves through your real contribution graph | ⚡ Updates daily | 🎯 Auto-playing live</sub>
 
 </div>
 
