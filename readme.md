@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 <img src="https://www.pinterest.com/ideas/coding-gif-banner/929630361081/" width="50"/> Hi, I'm Chitraju Vishnu Vineeth <img src="https://www.pinterest.com/ideas/coding-gif-banner/929630361081/" width="50"/> 🚀
+#  Hi, I'm Chitraju Vishnu Vineeth 
 
 ### 🚀 Full Stack Developer | 👨‍🎓 Engineering Student | ⚡ Tech Enthusiast
 
