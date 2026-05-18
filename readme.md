@@ -106,19 +106,17 @@
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14)
 
 ---
-
 # 📊 GitHub Statistics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=VishnuVineeth14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=VishnuVineeth14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800)
 
-![](https://streak-stats.demolab.com/?user=VishnuVineeth14&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=VishnuVineeth14&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVineeth14&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVineeth14&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800)
 
 </div>
-
 ---
 
 ![🐍 Snake eating my contributions](https://raw.githubusercontent.com/VishnuVineeth14/VishnuVineeth14/main/dist/github-contribution-grid-snake-dark.svg)
