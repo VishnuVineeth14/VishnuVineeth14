@@ -111,6 +111,8 @@
 
 <div align="center">
 
+![](https://img.shields.io/badge/Contributions%20This%20Year-89-blue?style=for-the-badge&logo=github)
+
 ![](https://github-readme-stats.vercel.app/api?username=VishnuVineeth14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=VishnuVineeth14&theme=tokyonight&hide_border=true)
