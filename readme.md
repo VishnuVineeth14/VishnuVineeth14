@@ -110,8 +110,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=VishnuVineeth14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800)
-
 ![](https://streak-stats.demolab.com/?user=VishnuVineeth14&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVineeth14&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800)
