@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Chitraju Vishnu Vineeth
+# 👋 Hi, I'm Chitraju Vishnu Vineeth
 
 ### 🚀 Full Stack Developer | 👨‍🎓 Engineering Student | ⚡ Tech Enthusiast
 
