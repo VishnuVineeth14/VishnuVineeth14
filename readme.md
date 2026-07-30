@@ -1,186 +1,178 @@
 <div align="center">
 
-# 👋 Hi, I'm Chitraju Vishnu Vineeth
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chitraju%20Vishnu%20Vineeth&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Engineering%20Student%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18&descColor=e0e0e0" width="100%"/>
 
-### 🚀 Full Stack Developer | 👨‍🎓 Engineering Student | ⚡ Tech Enthusiast
+<a href="https://linkedin.com/in/chitraju-vishnu-vineeth">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="mailto:vishnuvineeth2470039@ssn.edu.in">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://github.com/VishnuVineeth14">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
 
-**Status:** 🟢 Open to Collaborations | 💼 Always Learning | 🎯 Building Awesome Projects
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20With%20Me)](https://linkedin.com/in/chitraju-vishnu-vineeth)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuvineeth2470039@ssn.edu.in)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Crafting+scalable+web+applications;Building+innovative+full-stack+solutions;Exploring+Data+Science+%26+Machine+Learning;Always+learning%2C+always+building" />
 
----
+<br/>
 
-> 🎯 Crafting scalable web applications | Building innovative solutions | Mastering modern tech stack
->
-> 💡 Passionate about Full Stack Development | Data Science | Cloud Technologies
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Collaborations-39d353?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FOCUS-Placement%20Prep-f78166?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/LEARNING-Always-58A6FF?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
----
+<br/>
 
-#  💻 Dev Quote
+## 💻 Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
----
+<br/>
 
-# 💻 Tech Stack
-
-## 📝 Programming Languages
-*Click on any language to see projects using it*
-
-[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&language=c)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&language=java)
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&language=python)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&language=javascript)
-[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&language=kotlin)
-
----
-
-## 🎨 Frontend Technologies
-
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=html)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=css)
-[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=react)
-
----
-
-## 🔧 Backend & Frameworks
-
-[![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=flask)
-[![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=nodejs)
-[![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=express)
-
----
-
-## 📦 Databases
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=mongodb)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=mysql)
-[![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=sql)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=sqlite)
-[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=neo4j)
-
----
-
-## 📊 Data Science & ML
-
-[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=pandas)
-[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=numpy)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=sklearn)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=matplotlib)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=tensorflow)
-
----
-
-## 📱 Mobile Development
-
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&language=dart)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&language=dart)
-
----
-
-## 🚀 Deployment & Hosting
-
-[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=netlify)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=vercel)
-[![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=firebase)
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=docker)
-
----
-
-## 🛠️ Tools & Version Control
-
-[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14)
-[![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://gitlab.com/VishnuVineeth14)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14?tab=repositories&q=actions)
-[![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14)
-
----
-
-## 🎨 Design Tools
-
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://www.canva.com/)
-[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=1a1a1a&colorA=1a1a1a)](https://github.com/VishnuVineeth14)
-
----
-# 📊 GitHub Statistics
+## 🧠 Tech Stack
 
 <div align="center">
 
-![](https://streak-stats.demolab.com/?user=VishnuVineeth14&theme=tokyonight&hide_border=true&cache_seconds=1800)
+**Languages**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVineeth14&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800)
+<img src="https://skillicons.dev/icons?i=c,java,py,js,kotlin&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+
+**Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,mssql,sqlite,neo4j&theme=dark" />
+
+**Data Science & ML**
+
+<img src="https://skillicons.dev/icons?i=pandas,py,sklearn,tensorflow&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black&labelColor=0d1117" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+
+**Deployment & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,firebase,netlify,vercel&theme=dark" />
+
+**Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,ps&theme=dark" />
 
 </div>
 
+<br/>
 
-![🐍 Snake eating my contributions](https://raw.githubusercontent.com/VishnuVineeth14/VishnuVineeth14/main/dist/github-contribution-grid-snake-dark.svg)
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-# 🏆 Top Contributed Repositories
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VishnuVineeth14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=39d353&text_color=c9d1d9&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVineeth14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" />
 
+<img src="https://streak-stats.demolab.com/?user=VishnuVineeth14&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=f78166&currStreakLabel=58A6FF&cache_seconds=1800" />
 
-![](https://github-contributor-stats.vercel.app/api?username=VishnuVineeth14&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuVineeth14&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=39d353&point=f78166&area=true&cache_seconds=1800" width="98%"/>
 
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/VishnuVineeth14/VishnuVineeth14/main/dist/github-contribution-grid-snake-dark.svg" width="98%"/>
+</div>
+
+<br/>
+
+## 🏆 Trophy Cabinet
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VishnuVineeth14&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+</div>
+
+<br/>
+
+## 🎯 Featured Project
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center" width="100%" style="background-color:#0d1117;">
 
-#### 🎯 **Mess-Management-Platform**
+### Mess-Management-Platform
 
-[![Repo Link](https://img.shields.io/badge/View%20Repository-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VishnuVineeth14/Mess-Management-Platform)
+<a href="https://github.com/VishnuVineeth14/Mess-Management-Platform">
+  <img src="https://img.shields.io/badge/View%20Repository-39d353?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
 *A comprehensive platform for managing hostel mess operations efficiently*
 
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
-![Stars](https://img.shields.io/github/stars/VishnuVineeth14/Mess-Management-Platform?style=flat-square&color=00ff41)
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/VishnuVineeth14/Mess-Management-Platform?style=flat-square&color=39d353&labelColor=0d1117" />
 
-**✨ Key Features:**
-- 💰 Real-time mess billing & payments
-- 📋 Attendance tracking system
-- 🎨 User-friendly interface
-- 📊 Efficient data management
+**✨ Key Features**
+
+💰 Real-time mess billing & payments &nbsp;•&nbsp; 📋 Attendance tracking &nbsp;•&nbsp; 🎨 Clean UI &nbsp;•&nbsp; 📊 Efficient data management
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 🎓 Skills & Expertise
+<br/>
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | C, Java, Python, JavaScript, Kotlin |
-| **Frontend** | HTML5, CSS3, React |
-| **Backend** | Flask, Node.js, Express.js |
-| **Databases** | MongoDB, MySQL, MSSQL, SQLite, Neo4j |
-| **Data & ML** | Pandas, NumPy, Scikit-Learn, Matplotlib, TensorFlow |
-| **Mobile** | Flutter, Dart |
-| **DevOps & Cloud** | Docker, Firebase, Netlify, Vercel |
-| **Tools** | Git, GitHub, GitLab, VS Code, GitHub Actions |
-
----
-
-# 👀 Profile Views & Activity
+## 🎓 Skills Matrix
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=VishnuVineeth14&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+| Category | Skills |
+|:--|:--|
+| **Languages** | C · Java · Python · JavaScript · Kotlin |
+| **Frontend** | HTML5 · CSS3 · React |
+| **Backend** | Flask · Node.js · Express.js |
+| **Databases** | MongoDB · MySQL · MSSQL · SQLite · Neo4j |
+| **Data & ML** | Pandas · NumPy · Scikit-Learn · Matplotlib · TensorFlow |
+| **Mobile** | Flutter · Dart |
+| **DevOps & Cloud** | Docker · Firebase · Netlify · Vercel |
+| **Tools** | Git · GitHub · GitLab · VS Code · GitHub Actions |
 
-### ⭐ Let's Connect & Collaborate!
-<br>
-<a href="https://linkedin.com/in/chitraju-vishnu-vineeth"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:vishnuvineeth2470039@ssn.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/VishnuVineeth14"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</div>
 
----
+<br/>
+
+<div align="center">
+
+## 👀 Profile Activity
+
+<img src="https://komarev.com/ghpvc/?username=VishnuVineeth14&label=Profile%20Views&color=58A6FF&style=for-the-badge&base=0d1117" />
+
+### ⭐ Let's Connect & Collaborate
+
+<a href="https://linkedin.com/in/chitraju-vishnu-vineeth"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"></a>
+<a href="mailto:vishnuvineeth2470039@ssn.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"></a>
+<a href="https://github.com/VishnuVineeth14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 *Made with ❤️ by Chitraju Vishnu Vineeth*
 
