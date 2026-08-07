@@ -22,6 +22,12 @@
 
 <br/><br/>
 
+<!-- ━━━━━━━━━━━ LIVE PROFILE VIEWS COUNTER ━━━━━━━━━━━ -->
+
+<img src="https://komarev.com/ghpvc/?username=VishnuVineeth14&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge&base=0d1117" alt="Profile Views Counter"/>
+
+<br/><br/>
+
 <!-- ━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━ -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Crafting+scalable+web+%26+mobile+applications;Building+innovative+full-stack+solutions;Exploring+Data+Science+%26+Machine+Learning;Always+learning%2C+always+building" alt="Typing Header"/>
@@ -55,7 +61,7 @@
 <br/>
 
 **Languages**
-
+<br/>
 <a href="https://github.com/VishnuVineeth14/Banking-Management-System" title="C — Used in Banking Management System">
   <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C"/>
 </a>
@@ -72,10 +78,10 @@
   <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin"/>
 </a>
 
-<br/><br/>
+<br/>
 
 **Frontend**
-
+<br/>
 <a href="https://github.com/VishnuVineeth14/SkyBookingSystem" title="HTML — Used in Sky Booking System">
   <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML"/>
 </a>
@@ -86,10 +92,10 @@
   <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/>
 </a>
 
-<br/><br/>
+<br/>
 
 **Backend & Frameworks**
-
+<br/>
 <a href="https://github.com/VishnuVineeth14?tab=repositories&q=flask" title="Flask — View Flask Repositories">
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask"/>
 </a>
@@ -100,10 +106,10 @@
   <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express"/>
 </a>
 
-<br/><br/>
+<br/>
 
 **Databases**
-
+<br/>
 <a href="https://github.com/VishnuVineeth14?tab=repositories&q=mongo" title="MongoDB — View MongoDB Repositories">
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/>
 </a>
@@ -120,14 +126,13 @@
   <img src="https://skillicons.dev/icons?i=neo4j&theme=dark" alt="Neo4j"/>
 </a>
 
-<br/><br/>
+<br/>
 
 **Data Science & ML**
-
+<br/>
 <a href="https://github.com/VishnuVineeth14/ML_LAB_ASSIGNMENTS" title="Pandas, Python, Sklearn, TensorFlow — Used in ML Lab Assignments">
   <img src="https://skillicons.dev/icons?i=pandas,py,sklearn,tensorflow&theme=dark" alt="ML Tools"/>
 </a>
-<br/>
 <a href="https://github.com/VishnuVineeth14/ML_LAB_ASSIGNMENTS" title="NumPy — Used in ML Lab Assignments">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" alt="NumPy"/>
 </a>
@@ -135,18 +140,18 @@
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black&labelColor=0d1117" alt="Matplotlib"/>
 </a>
 
-<br/><br/>
+<br/>
 
 **Mobile**
-
+<br/>
 <a href="https://github.com/VishnuVineeth14/Mess-Management-Platform" title="Flutter & Dart — Used in Mess Management Platform">
   <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile Stack"/>
 </a>
 
-<br/><br/>
+<br/>
 
 **Deployment & Cloud**
-
+<br/>
 <a href="https://github.com/VishnuVineeth14?tab=repositories&q=docker" title="Docker — View Docker Repositories">
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/>
 </a>
@@ -157,10 +162,10 @@
   <img src="https://skillicons.dev/icons?i=netlify,vercel&theme=dark" alt="Cloud Deployment"/>
 </a>
 
-<br/><br/>
+<br/>
 
 **Tools & Design**
-
+<br/>
 <a href="https://github.com/VishnuVineeth14?tab=repositories" title="Developer Tools & Design Software">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,ps&theme=dark" alt="Tools & Design"/>
 </a>
@@ -173,16 +178,16 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VishnuVineeth14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=39d353&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVineeth14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VishnuVineeth14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=39d353&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVineeth14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=VishnuVineeth14&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=f78166&currStreakLabel=58A6FF&cache_seconds=1800" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=VishnuVineeth14&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=f78166&currStreakLabel=58A6FF" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuVineeth14&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=39d353&point=f78166&area=true&cache_seconds=1800" width="98%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuVineeth14&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=39d353&point=f78166&area=true" width="98%" alt="Activity Graph"/>
 
 </div>
 
@@ -202,102 +207,23 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%" style="background-color:#0d1117;">
-
-### 📱 Mess-Management-Platform
-
 <a href="https://github.com/VishnuVineeth14/Mess-Management-Platform">
-  <img src="https://img.shields.io/badge/View%20Repository-39d353?style=for-the-badge&logo=github&logoColor=black" alt="View Repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuVineeth14&repo=Mess-Management-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=39d353&text_color=c9d1d9" alt="Mess Management Platform"/>
 </a>
-
-<br/><br/>
-
-*A comprehensive platform for managing hostel mess operations efficiently*
-
-<br/>
-
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117" />
-
-<br/><br/>
-
-**✨ Features:** Real-time billing • Attendance tracking • Clean UI
-
-</td>
-
-<td align="center" width="50%" style="background-color:#0d1117;">
-
-### 🏦 Banking-Management-System
-
+&nbsp;&nbsp;
 <a href="https://github.com/VishnuVineeth14/Banking-Management-System">
-  <img src="https://img.shields.io/badge/View%20Repository-39d353?style=for-the-badge&logo=github&logoColor=black" alt="View Repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuVineeth14&repo=Banking-Management-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=39d353&text_color=c9d1d9" alt="Banking Management System"/>
 </a>
 
 <br/><br/>
-
-*Core banking management solution for accounts & transaction processing*
-
-<br/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117" />
-
-<br/><br/>
-
-**✨ Features:** Account handling • Deposit/Withdrawal • Transaction logs
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" style="background-color:#0d1117;">
-
-### ✈️ SkyBookingSystem
 
 <a href="https://github.com/VishnuVineeth14/SkyBookingSystem">
-  <img src="https://img.shields.io/badge/View%20Repository-39d353?style=for-the-badge&logo=github&logoColor=black" alt="View Repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuVineeth14&repo=SkyBookingSystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=39d353&text_color=c9d1d9" alt="Sky Booking System"/>
 </a>
-
-<br/><br/>
-
-*Airline reservation and flight ticket booking management system*
-
-<br/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117" />
-
-<br/><br/>
-
-**✨ Features:** Flight search • Ticket reservation • Passenger management
-
-</td>
-
-<td align="center" width="50%" style="background-color:#0d1117;">
-
-### 🤖 ML_LAB_ASSIGNMENTS
-
+&nbsp;&nbsp;
 <a href="https://github.com/VishnuVineeth14/ML_LAB_ASSIGNMENTS">
-  <img src="https://img.shields.io/badge/View%20Repository-39d353?style=for-the-badge&logo=github&logoColor=black" alt="View Repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuVineeth14&repo=ML_LAB_ASSIGNMENTS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=39d353&text_color=c9d1d9" alt="ML Lab Assignments"/>
 </a>
-
-<br/><br/>
-
-*Machine learning algorithms, model training & data science implementations*
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=0d1117" />
-
-<br/><br/>
-
-**✨ Features:** Algorithmic models • Data analysis • Model evaluations
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -323,10 +249,6 @@
 <br/>
 
 <div align="center">
-
-## 👀 Profile Activity
-
-<img src="https://komarev.com/ghpvc/?username=VishnuVineeth14&label=Profile%20Views&color=58A6FF&style=for-the-badge&base=0d1117" alt="Profile Views"/>
 
 ### ⭐ Let's Connect & Collaborate
 
