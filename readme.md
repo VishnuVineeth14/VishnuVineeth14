@@ -178,9 +178,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VishnuVineeth14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=39d353&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVineeth14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165" alt="Top Languages"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=VishnuVineeth14&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=f78166&currStreakLabel=58A6FF" alt="Streak Stats"/>
