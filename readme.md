@@ -21,11 +21,6 @@
 </a>
 
 <br/><br/>
-<!-- ━━━━━━━━━━━ LIVE PROFILE VIEWS COUNTER ━━━━━━━━━━━ -->
-
-<img src="https://komarev.com/ghpvc/?username=VishnuVineeth14&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views Counter"/>
-
-<br/><br/>
 
 <!-- ━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━ -->
 
@@ -306,6 +301,13 @@
 <a href="https://github.com/VishnuVineeth14" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
 </a>
+
+<br/>
+
+<!-- ━━━━━━━━━━━ LIVE PROFILE VIEWS COUNTER ━━━━━━━━━━━ -->
+
+<img src="https://komarev.com/ghpvc/?username=VishnuVineeth14&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views Counter"/>
+
 
 <br/><br/>
 
