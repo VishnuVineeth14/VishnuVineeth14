@@ -25,6 +25,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=VishnuVineeth14&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views Counter"/>
 
+<br/><br/>
+
 <!-- ━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━ -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Crafting+scalable+web+%26+mobile+applications;Building+innovative+full-stack+solutions;Exploring+Data+Science+%26+Machine+Learning;Always+learning%2C+always+building" alt="Typing Header"/>
