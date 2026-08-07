@@ -196,12 +196,6 @@
 
 <br/>
 
-## 🏆 Trophy Cabinet
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VishnuVineeth14&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophy Cabinet"/>
-</div>
-
 <br/>
 
 ## 🎯 Featured Projects
