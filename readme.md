@@ -21,12 +21,9 @@
 </a>
 
 <br/><br/>
-
 <!-- ━━━━━━━━━━━ LIVE PROFILE VIEWS COUNTER ━━━━━━━━━━━ -->
 
-<img src="https://komarev.com/ghpvc/?username=VishnuVineeth14&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge&base=0d1117" alt="Profile Views Counter"/>
-
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=VishnuVineeth14&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views Counter"/>
 
 <!-- ━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━ -->
 
