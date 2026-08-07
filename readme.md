@@ -60,8 +60,8 @@
 
 <br/>
 
-**Languages**
-<br/>
+### ⚡ Languages
+
 <a href="https://github.com/VishnuVineeth14/Banking-Management-System" title="C — Used in Banking Management System">
   <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C"/>
 </a>
@@ -80,8 +80,8 @@
 
 <br/>
 
-**Frontend**
-<br/>
+### 🎨 Frontend
+
 <a href="https://github.com/VishnuVineeth14/SkyBookingSystem" title="HTML — Used in Sky Booking System">
   <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML"/>
 </a>
@@ -94,8 +94,8 @@
 
 <br/>
 
-**Backend & Frameworks**
-<br/>
+### ⚙️ Backend & Frameworks
+
 <a href="https://github.com/VishnuVineeth14?tab=repositories&q=flask" title="Flask — View Flask Repositories">
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask"/>
 </a>
@@ -108,8 +108,8 @@
 
 <br/>
 
-**Databases**
-<br/>
+### 🗄️ Databases
+
 <a href="https://github.com/VishnuVineeth14?tab=repositories&q=mongo" title="MongoDB — View MongoDB Repositories">
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/>
 </a>
@@ -128,8 +128,8 @@
 
 <br/>
 
-**Data Science & ML**
-<br/>
+### 🧪 Data Science & ML
+
 <a href="https://github.com/VishnuVineeth14/ML_LAB_ASSIGNMENTS" title="Pandas, Python, Sklearn, TensorFlow — Used in ML Lab Assignments">
   <img src="https://skillicons.dev/icons?i=pandas,py,sklearn,tensorflow&theme=dark" alt="ML Tools"/>
 </a>
@@ -142,16 +142,16 @@
 
 <br/>
 
-**Mobile**
-<br/>
+### 📱 Mobile
+
 <a href="https://github.com/VishnuVineeth14/Mess-Management-Platform" title="Flutter & Dart — Used in Mess Management Platform">
   <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile Stack"/>
 </a>
 
 <br/>
 
-**Deployment & Cloud**
-<br/>
+### ☁️ Deployment & Cloud
+
 <a href="https://github.com/VishnuVineeth14?tab=repositories&q=docker" title="Docker — View Docker Repositories">
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/>
 </a>
@@ -164,8 +164,8 @@
 
 <br/>
 
-**Tools & Design**
-<br/>
+### 🛠️ Tools & Design
+
 <a href="https://github.com/VishnuVineeth14?tab=repositories" title="Developer Tools & Design Software">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,ps&theme=dark" alt="Tools & Design"/>
 </a>
@@ -201,29 +201,84 @@
 
 <br/>
 
+## 🏆 Trophy Cabinet
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VishnuVineeth14&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophy Cabinet"/>
+</div>
+
 <br/>
 
 ## 🎯 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/VishnuVineeth14/Mess-Management-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuVineeth14&repo=Mess-Management-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=39d353&text_color=c9d1d9" alt="Mess Management Platform"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/VishnuVineeth14/Banking-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuVineeth14&repo=Banking-Management-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=39d353&text_color=c9d1d9" alt="Banking Management System"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/VishnuVineeth14/SkyBookingSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuVineeth14&repo=SkyBookingSystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=39d353&text_color=c9d1d9" alt="Sky Booking System"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/VishnuVineeth14/ML_LAB_ASSIGNMENTS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuVineeth14&repo=ML_LAB_ASSIGNMENTS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=39d353&text_color=c9d1d9" alt="ML Lab Assignments"/>
-</a>
+<table width="100%">
+<tr>
+<td align="center" width="50%" style="background:#0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+  <a href="https://github.com/VishnuVineeth14/Mess-Management-Platform">
+    <img src="https://img.shields.io/badge/📱_Mess--Management--Platform-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Mess Management Platform" height="35"/>
+  </a>
+  <br/><br/>
+  <sub><b>A comprehensive platform for managing hostel mess operations efficiently</b></sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/VishnuVineeth14/Mess-Management-Platform?style=flat-square&color=39d353&labelColor=0d1117" />
+  <br/><br/>
+  <a href="https://github.com/VishnuVineeth14/Mess-Management-Platform">
+    <img src="https://img.shields.io/badge/🚀_View_Repository-39d353?style=for-the-badge&logoColor=black" height="28"/>
+  </a>
+</td>
+<td align="center" width="50%" style="background:#0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+  <a href="https://github.com/VishnuVineeth14/Banking-Management-System">
+    <img src="https://img.shields.io/badge/🏦_Banking--Management--System-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Banking Management System" height="35"/>
+  </a>
+  <br/><br/>
+  <sub><b>Core banking management solution for accounts & transaction processing</b></sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/VishnuVineeth14/Banking-Management-System?style=flat-square&color=39d353&labelColor=0d1117" />
+  <br/><br/>
+  <a href="https://github.com/VishnuVineeth14/Banking-Management-System">
+    <img src="https://img.shields.io/badge/🚀_View_Repository-39d353?style=for-the-badge&logoColor=black" height="28"/>
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" style="background:#0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+  <a href="https://github.com/VishnuVineeth14/SkyBookingSystem">
+    <img src="https://img.shields.io/badge/✈️_SkyBookingSystem-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Sky Booking System" height="35"/>
+  </a>
+  <br/><br/>
+  <sub><b>Airline reservation and flight ticket booking management system</b></sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/VishnuVineeth14/SkyBookingSystem?style=flat-square&color=39d353&labelColor=0d1117" />
+  <br/><br/>
+  <a href="https://github.com/VishnuVineeth14/SkyBookingSystem">
+    <img src="https://img.shields.io/badge/🚀_View_Repository-39d353?style=for-the-badge&logoColor=black" height="28"/>
+  </a>
+</td>
+<td align="center" width="50%" style="background:#0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px;">
+  <a href="https://github.com/VishnuVineeth14/ML_LAB_ASSIGNMENTS">
+    <img src="https://img.shields.io/badge/🤖_ML__LAB__ASSIGNMENTS-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="ML Lab Assignments" height="35"/>
+  </a>
+  <br/><br/>
+  <sub><b>Machine learning algorithms, model training & data science implementations</b></sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/VishnuVineeth14/ML_LAB_ASSIGNMENTS?style=flat-square&color=39d353&labelColor=0d1117" />
+  <br/><br/>
+  <a href="https://github.com/VishnuVineeth14/ML_LAB_ASSIGNMENTS">
+    <img src="https://img.shields.io/badge/🚀_View_Repository-39d353?style=for-the-badge&logoColor=black" height="28"/>
+  </a>
+</td>
+</tr>
+</table>
 
 </div>
 
