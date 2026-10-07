@@ -258,8 +258,6 @@ Interests: [Full Stack Development, Web Applications, Mobile App Development, Ma
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuVineeth14&theme=react-dark&hide_border=true&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff" width="98%" alt="Activity Graph"/>
-
 </div>
 
 <br/>
