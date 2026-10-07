@@ -269,15 +269,15 @@ Interests: [Full Stack Development, Web Applications, Mobile App Development, Ma
 <div align="center">
 
 <a href="https://linkedin.com/in/chitraju-vishnu-vineeth" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117" alt="LinkedIn"/>
+  <img src="https://raw.githubusercontent.com/VishnuVineeth14/VishnuVineeth14/main/assets/button-linkedin.svg" alt="LinkedIn" height="50"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:vishnuvineeth2470039@ssn.edu.in">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-00E5FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" alt="Email"/>
+  <img src="https://raw.githubusercontent.com/VishnuVineeth14/VishnuVineeth14/main/assets/button-email.svg" alt="Email" height="50"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/VishnuVineeth14" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/VishnuVineeth14/VishnuVineeth14/main/assets/button-github.svg" alt="GitHub" height="50"/>
 </a>
 
 <br/><br/>
