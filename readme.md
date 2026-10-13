@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- ━━━━━━━━━━━━━━━━━━━ 3D HERO HEADER ━━━━━━━━━━━━━━━━━━━ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Chitraju%20Vishnu%20Vineeth&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20Tech%20Enthusiast&descAlignY=58&descSize=16&descColor=00f2fe" width="100%" alt="Chitraju Vishnu Vineeth Header"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Chitraju%20Vishnu%20Vineeth&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Development%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=16&descColor=00f2fe" width="100%" alt="Chitraju Vishnu Vineeth Header"/>
 <br/>
 
 <!-- ━━━━━━━━━━━ SOCIAL & CONTACT PILLS ━━━━━━━━━━━ -->
