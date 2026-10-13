@@ -38,7 +38,7 @@
 Name: Chitraju Vishnu Vineeth
 Location: Chennai, India
 Education: Computer Science & Engineering @ SSN College of Engineering
-Roles: Full Stack Developer | Software Engineer | Tech Enthusiast
+Roles: Full Stack Developer | Tech Enthusiast
 Interests: [Full Stack Development, Web Applications, Mobile App Development, Machine Learning, Cybersecurity]
 ```
 
